@@ -1,3 +1,3 @@
-PATH=${PATH}:/tmp/cwutils-4.0.0.198/bin
+PATH=${PATH}:/tmp/cwutils_4.0.0.198/bin
 MANPATH=${MANPATH}:/tmp/cwutils_4.0.0.198/doc/man
 INSTALL4J ADD VM PARAMS=-Dsun.java2d.uiScale=2.0
